@@ -1,0 +1,10 @@
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\bin\Debug\LeapTouchScreen.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\bin\Debug\LeapTouchScreen.exe
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\bin\Debug\LeapTouchScreen.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\obj\Debug\LeapTouchScreen.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\obj\Debug\LeapTouchScreen.Form1.resources
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\obj\Debug\LeapTouchScreen.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\obj\Debug\LeapTouchScreen.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\obj\Debug\LeapTouchScreen.exe
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\obj\Debug\LeapTouchScreen.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\LeapTouchScreen\LeapTouchScreen\bin\Debug\LeapCSharp.NET4.0.dll
